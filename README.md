@@ -1,7 +1,3 @@
-# Claude's resume
-
-Copied from [ice1000's resume](https://github.com/ice1000/resume)
-
 # Download/下载
 
 + [English simplified version (pdf)](./resume.pdf)
